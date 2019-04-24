@@ -104,7 +104,6 @@ class Point(object):
         halfway = Point(halfway_x,halfway_y)
         return halfway
 
-
 # init
 def run_test_init():
     """
